@@ -1,0 +1,1 @@
+ServX Downloads - Public QA release assets only. Application sources remain private. Unsigned binaries are for authorized testing.
